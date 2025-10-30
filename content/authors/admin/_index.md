@@ -151,7 +151,7 @@ awards:
     summary: |
       Academic Year Excellent Student Scholarship
   - title: Third Prize in Computer Design Competition
-    date: 2021-06-30'
+    date: '2021-06-30'
     awarder: Beijing “Shuo Ri Cup”
     icon: hero/academic-cap
     summary: |

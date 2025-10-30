@@ -10,7 +10,7 @@ first_name: Jia
 last_name: KANG
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: applying for PhD position
 
 # Status emoji
 status:

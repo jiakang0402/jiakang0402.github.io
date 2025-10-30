@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Python and R in asset pricing, particularly with Pandas package in Python and Tidyverse in R.
 
 <!--more-->

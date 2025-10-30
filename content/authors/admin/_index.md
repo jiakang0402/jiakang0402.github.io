@@ -57,8 +57,8 @@ education:
   - area: MSc in Economics
     institution: The Hong Kong University of Science and Technology(HKUST)
     icon: ""
-    date_start: 2024-09
-    date_end: 2025-09
+    date_start: 2024-09-01
+    date_end: 2025-09-15
     summary: |
       GPA: 3.75/4.0 (top 10%)
       Core Courses: Mathematics, Macroeconomic Analysis (A), Macroeconomic Theory Ⅱ (A-), Applied Econometrics (A), Monetary Economics (A+), The Asset Management Industry (A-), MSc Project (Thesis)(A)
@@ -68,8 +68,8 @@ education:
   - area: BA in Economics
     institution: Minzu University of China (MUC, 985 Project)
     icon: ""
-    date_start: 2020-09
-    date_end: 2024-07
+    date_start: 2020-09-01
+    date_end: 2024-07-01
     summary: |
       GPA: 86.6/100 (ranking 18/277)
 
@@ -81,7 +81,7 @@ work:
     company_name: Department of Economics, HKUST
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2024-10
+    date_start: 2024-10-30
     date_end: ''
     summary: |2-
       Research assistant for Professor Juanyi Xu
@@ -90,8 +90,8 @@ work:
     company_name: China Center for Information Industry Development (CCID)
     company_url: 'http://en.ccidgroup.com/index.htm'
     icon: ''
-    date_start: 2024-02
-    date_end: 2024-04
+    date_start: 2024-02-01
+    date_end: 2024-04-30
     summary: |
       Conducted research and consulting planning tasks targeting key industries such as steel.
       Engaged in specialized research and support work for the digital transformation of the manufacturing industry.
@@ -139,13 +139,13 @@ languages:
 awards:
   - title: HKUST MSc(Econ) Admission Scholarship
     url: file:///Users/kangjia/Downloads/21096246TRO20250919B20250919104922%20(1).pdf
-    date: '2024-2025'
+    date: '2024-09-01'
     awarder: HKUST
     icon: hero/trophy
     summary: |
       Admission Scholarship
   - title: Academic Year Excellent Student Cadre at the Minzu University of China
-    date: '2021-2023'
+    date: '2023-09-01'
     awarder: Minzu University of China
     icon: hero/currency-dollar
     summary: |

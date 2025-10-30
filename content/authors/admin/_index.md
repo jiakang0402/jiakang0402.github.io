@@ -54,119 +54,108 @@ Research interests:
   - Chinese economy
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: MSc in Economics
+    institution: The Hong Kong University of Science and Technology(HKUST)
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-09
+    date_end: 2025-09
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      GPA: 3.75/4.0 (top 10%)
+      Core Courses: Mathematics, Macroeconomic Analysis (A), Macroeconomic Theory Ⅱ (A-), Applied Econometrics (A), Monetary Economics (A+), The Asset Management Industry (A-), MSc Project (Thesis)(A)
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      url: 'https://mscecon.hkust.edu.hk/home'
+  - area: BA in Economics
+    institution: Minzu University of China (MUC, 985 Project)
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2020-09
+    date_end: 2024-07
     summary: |
-      GPA: 4.0/4.0
+      GPA: 86.6/100 (ranking 18/277)
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Major: Innovation Class for Top Talents in Economics
+      Core Courses: Mathematical Economics (96), Statistics (91), Dynamic Optimization (90), Advanced MathematicsⅡ (87), Intermediate Macroeconomics (83), Econometrics (88), Social Research Methods (88), Probability and Mathematical Statistics(87), Frontier of Public Finance (90), Digital Economy (95), Graduation Project (Thesis) (90)
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Research Assistant
+    company_name: Department of Economics, HKUST
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-10
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Research assistant for Professor Juanyi Xu
+      Project: Household Heterogeneity and the Transmission of U.S. Monetary Policy
+  - position: Research Assistant
+    company_name: China Center for Information Industry Development (CCID)
+    company_url: 'http://en.ccidgroup.com/index.htm'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2024-02
+    date_end: 2024-04
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted research and consulting planning tasks targeting key industries such as steel.
+      Engaged in specialized research and support work for the digital transformation of the manufacturing industry.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: MATLAB
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Python
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Stata
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
+  - name: English
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: GRE336(4.0)
         description: ''
-        percent: 80
+        percent: 100
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: TOEFL103
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
 languages:
+  - name: Chinese
+    percent: 100
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: HKUST MSc(Econ) Admission Scholarship
+    url: file:///Users/kangjia/Downloads/21096246TRO20250919B20250919104922%20(1).pdf
+    date: '2024-2025'
+    awarder: HKUST
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Admission Scholarship
+  - title: Academic Year Excellent Student Cadre at the Minzu University of China
+    date: '2021-2023'
+    awarder: Minzu University of China
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Academic Year Excellent Student Scholarship
+  - title: Third Prize in Computer Design Competition
+    date: 2021-06-30'
+    awarder: Beijing “Shuo Ri Cup”
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Third Prize in Beijing “Shuo Ri Cup” - China College Student Computer Design Competition
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Jia Kang is an MSc graduate in Economics actively seeking PhD opportunities in Macroeconomics, Industrial Organization, and Digital Economics. His research leverages applied econometrics and macroeconomic models to analyze the Chinese economy, with proven experience in projects examining monetary policy transmission and the impact of technology on labor markets. Proficient in Python, MATLAB, and Stata, he aims to develop rigorous, data-driven insights into economic policy and firm behavior.

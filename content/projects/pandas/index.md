@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: DiD Replication
+date: 2025-09-29
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://ratest-rho.vercel.app/intro.html
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - DiD
+  - Stata
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+Paper Summary/ Replication of Main Analysis/ Critiques about the paper ‘Curriculum and Ideology’/ Recent DiD Estimators
 <!--more-->

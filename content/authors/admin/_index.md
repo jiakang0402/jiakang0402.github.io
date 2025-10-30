@@ -95,7 +95,34 @@ work:
     summary: |
       Conducted research and consulting planning tasks targeting key industries such as steel.
       Engaged in specialized research and support work for the digital transformation of the manufacturing industry.
-
+  - position: Industrial Research Department Project Assistant
+    company_name: CITIC Securities
+    company_url: 'https://www.cs.ecitic.com/newsite/en/index/'
+    icon: ''
+    date_start: 2023-02-01
+    date_end: 2023-03-30
+    summary: |
+      • Conducted a multifaceted analysis of China’s burgeoning rehabilitation medical industry, assessing key growth factors including policy landscape, demand dynamics, supply chain mechanics, technological advancements, and payment systems. 
+      • Executed a value chain assessment, encompassing upstream suppliers, midstream providers, and downstream consumers to identify optimization opportunities and potential bottlenecks.
+      • Undertook targeted sector research with a focus on Sanxing Medical Electric, culminating in a detailed company dossier covering corporate structure, equity distribution, financial health, and distinctive business competencies.
+      • Synthesized research into a PowerPoint presentation, offering insights on market positioning, industry benchmarking, and growth forecast within the rehabilitation medical sector.
+      • Leveraged findings to deliver actionable insights and strategic guidance to the senior management team, directly informing organizational strategy and tactical planning.
+  - position: Personnel Field Assistant Manager(Volunteer Experience)
+    company_name: Beijing Winter Olympics and Paralympics
+    company_url: 'https://www.olympics.com/en/olympic-games/beijing-2022'
+    icon: ''
+    date_start: 2022-01-01
+    date_end: 2022-04-20
+    summary: |2-
+      Worked in personnel management, primarily responsible for general coordination, daily operations of the venue, external liaison, and supporting the manager and other team members in various tasks. Demonstrated exceptional organizational skills by collecting daily arrival information of P, V, C, and S personnel within and outside the closed loop of each field, and reporting statistical results to the Human Resources Department of the Winter Olympic Organizing Committee.
+  - position: Deputy Director of Office (student work exprience)
+    company_name: School Committee of Minzu University of China
+    company_url: 'https://www.muc.edu.cn/xywh/tw.htm'
+    icon: ''
+    date_start: 2021-10-01
+    date_end: 2023-07-01
+    summary: |2-
+      •Coordinated and participated in the organization of school-level activities for all students and departments of the University Committee. •Planned, worte speeches , and prepared meeting for key events, including  the general meeting of all members, propaganda meeting of the Central Committee of the League, and visit and exchange activities of the Fengtai League District Committee and Guangxi Minzu University.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -156,6 +183,10 @@ awards:
     icon: hero/academic-cap
     summary: |
       Third Prize in Beijing “Shuo Ri Cup” - China College Student Computer Design Competition
+  - title: Second Prize in the CEO Trainee Marketing Entrepreneurship Practice Challenge Competition
+    date: '2020-06-30'
+    awarder: CEO Trainee Marketing Entrepreneurship Practice Challenge Competition
+    icon: hero/academic-cap
 ---
 
-Jia Kang is an MSc graduate in Economics actively seeking PhD opportunities in Macroeconomics, Industrial Organization, and Digital Economics. His research leverages applied econometrics and macroeconomic models to analyze the Chinese economy, with proven experience in projects examining monetary policy transmission and the impact of technology on labor markets. Proficient in Python, MATLAB, and Stata, he aims to develop rigorous, data-driven insights into economic policy and firm behavior.
+Jia Kang is an MSc graduate in Economics actively seeking PhD opportunities in Macroeconomics, Industrial Organization, and Digital Economics. Her research leverages applied econometrics and macroeconomic models to analyze the Chinese economy, with proven experience in projects examining monetary policy transmission and the impact of technology on labor markets. Proficient in Python, MATLAB, and Stata, she aims to develop rigorous, data-driven insights into economic policy and firm behavior.

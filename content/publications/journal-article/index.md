@@ -1,29 +1,28 @@
 ---
-title: "An example journal article"
+title: "The Impact of Technological Progress on the Gender Wage Gap"
+
 authors:
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "independent author"
+date: "2024-05-12T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Vol. 43 (2024): 6th International Conference on Global Economy, Finance and Humanities Research (GEFHR 2024)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Technological advancements not only enhance the income levels of workers but also modify the gender wage disparity. Utilizing the "task-based model" and the "brain-muscle dual-factor model," this analysis investigates the implications of technological advancements on the gender gap, employing micro-econometric methods to examine variables associated with wage and income performance differentials attributable to gender. Through the efficient allocation of resources, technological progress has reduced the relative cost of manual labor while elevating the worth of cognitive labor, thereby transforming the traditional labor market that has been predominantly manual labor-oriented. In this context, women, leveraging their strengths in communication, coordination, and focus, demonstrate a greater adaptability to the demands of cognitive work, resulting in enhanced competitiveness within the labor market. By aligning the regional level of technological advancement (specifically at the prefecture-level city) with the mixed micro-individual cross-sectional data from the CFPS database for the years 2018 and 2020, the findings reveal several key insights: a notable wage disparity persists between male and female workers throughout the sample period; the impact of technological progress significantly boosts wage growth among laborers, particularly benefiting female workers, which suggests a reduction in the gender wage gap; female laborers in rural areas experience more pronounced positive incentives regarding wage income compared to their urban counterparts; and, in geographical comparisons, women in the central region receive more substantial positive incentives in wage income relative to those in the eastern and western regions. Consequently, it is imperative for each region to expedite technological advancement, refine the employment structure for women, and foster technological progress to mitigate the gender wage gap.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The impact of technological progress significantly boosts wage growth among laborers, particularly benefiting female workers, which suggests a reduction in the gender wage gap.
 
 tags:
 - Source Themes
@@ -35,21 +34,11 @@ hugoblox:
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: https://doi.org/10.54097/drbbgs49
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: https://github.com/jiakang0402/Gender_Wage_Gap_Code
   - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://github.com/jiakang0402/Gender_Wage_Gap_Data
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

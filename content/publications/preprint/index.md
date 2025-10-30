@@ -1,28 +1,28 @@
 ---
-title: "An example preprint / working paper"
+title: "Household Heterogeneity and the Transmission of U.S. Monetary Policy"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-07-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["Research Proposal"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: From a sample of more than 70 countries, we examine the effect of household heterogeneity on monetary policy shocks. We find that, when there is a U.S. monetary policy shock, household inequality matter for response of industrial production and interest rate, while doesn’t matter for response of exchange rate, export and import. This indicates that the demand spillovers from monetary shocks increase with heterogeneity within the country, but the terms of trade and real exchange rate effects remain relatively unaffected.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Countries with higher Gini index have stronger response to U.S. monetary policy shocks in interest rate and production.
 
 tags:
-- Large Language Models
+- TANK Model, Monetary Policy Shocks
 
 featured: true
 
@@ -30,25 +30,7 @@ hugoblox:
   ids:
     arxiv: 1512.04133v1
 
-links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

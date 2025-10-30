@@ -61,9 +61,10 @@ education:
     date_end: 2025-09-15
     summary: |
       GPA: 3.75/4.0 (top 10%)
+      
       Core Courses: Mathematics, Macroeconomic Analysis (A), Macroeconomic Theory Ⅱ (A-), Applied Econometrics (A), Monetary Economics (A+), The Asset Management Industry (A-), MSc Project (Thesis)(A)
     button:
-      text: 'Read Thesis'
+      text: 'Read'
       url: 'https://mscecon.hkust.edu.hk/home'
   - area: BA in Economics
     institution: Minzu University of China (MUC, 985 Project)

@@ -1,15 +1,15 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: Momentum_Factor_Test_in_China
+date: 2024-10-26
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: https://github.com/jiakang0402/Momentum_Factor_Test_in_China
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - CSRP
+  - Momentum Crash
+  - Asset Pricing
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+I am familiar with the CSRP dataset at UPenn and the Wind dataset in China. Attached are some of my previous works. One of them is to test the momentum factor in US and China, which is also a replication of Table 4 in the paper "Momentum Crash" in JFE 2016.
 
 <!--more-->

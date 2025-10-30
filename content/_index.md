@@ -34,9 +34,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Jia Kang is an MSc graduate in Economics actively seeking PhD opportunities with a focus on industrial organization in the digital era and the transformation of the Chinese economy. Her leverages rigorous econometric models and macroeconomic theory to decode the complex interactions between economic policies and micro-level firm behaviors, seeking practical pathways for sustainable growth.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        She is currently actively seeking a PhD position or Research Assistant role to deepen his exploration into the heterogeneous transmission of monetary policy across households with varying income levels, the reshaping of market structures by digitalization, and the generalizable principles within China's unique development model. His independent research, “The Impact of Technological Progress on the Gender Wage Gap,” was presented at an international conference. In this work, he constructed a prefectural-city-level Total Factor Productivity database for China and found that technological progress significantly narrows the gender wage gap, particularly for female workers in rural and central regions.
+
+        She is proficient in computational tools including MATLAB, Python, and Stata, and holds an exceptional GRE score of 336 and a TOEFL score of 103. Outside of economics, he is an avid winter sports enthusiast, having served as a volunteer for the Beijing Winter Olympics and led a project developing personalized ice and tourism services.
 
         Please reach out to collaborate 😃
     design:
@@ -62,15 +64,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
   - block: collection
     id: news
     content:
